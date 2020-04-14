@@ -1,0 +1,16 @@
+html {
+    margin: 25px 50px 75px 100px;
+    padding: 25px;
+    max-width: 1024px;
+    width: 100%;
+    background-color: pink;
+    font-size: xx-large;
+}
+
+.blue-title {
+    color: rgb(35, 72, 173);
+}
+
+#blueSubtitle {
+    color:cornflowerblue;
+}
